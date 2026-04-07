@@ -1,7 +1,7 @@
 {
+  "lang": "yaml",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml",
   "semver": false,
   "parser_version": "4463985dfccc640f3d6991e3396a2047610cf5f8",
-  "location": null,
-  "lang": "yaml"
+  "location": null
 }
