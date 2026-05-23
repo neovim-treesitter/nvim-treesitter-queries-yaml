@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml",
   "semver": false,
-  "parser_version": "4463985dfccc640f3d6991e3396a2047610cf5f8",
+  "parser_version": "a1c4812a73ec5e089de8e441fdea3a921e8d5079",
   "inject_deps": [
     "bash",
     "promql"
